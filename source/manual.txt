@@ -1,0 +1,11 @@
+# Custom Direct/CN Rules (自定义直连/国内规则)
+# ---------------------------------------------
+# Add your custom rules below. Supported formats:
+# - Exact Domain: example.com
+# - Domain Suffix: *.example.com or +.example.com
+# - IP CIDR: 192.168.1.0/24 or 2001:db8::/32
+#
+# Examples:
+# mylan.local
+# *.local
+# 192.168.0.0/16
