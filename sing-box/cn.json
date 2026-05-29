@@ -2,6 +2,53 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "993800.xyz",
+        "assrt.net",
+        "baidu.com",
+        "bdurl.net",
+        "bytegecko.com",
+        "byteimg.com",
+        "clash.razord.top",
+        "cn",
+        "d.metacubex.one",
+        "digicert.cn",
+        "dns.weixin.qq.com.cn",
+        "douyinpic.com",
+        "fqnovel.com",
+        "fqnovelpic.com",
+        "fuckcloudnative.io",
+        "gtimg.cn",
+        "hubeijingjunf.com",
+        "icloudnative.io",
+        "jin10.com",
+        "jsdelivr.net",
+        "miui.com",
+        "niucache.com",
+        "opensubtitles.com",
+        "qq.com",
+        "qq.com.cn",
+        "qznovelvod.com",
+        "sealos.io",
+        "sf-express.com",
+        "sina.cn",
+        "sina.com.cn",
+        "snssdk.com",
+        "sogou.com",
+        "tencent-cloud.net",
+        "tencent.com",
+        "tlivedns.com",
+        "tliveplay.com",
+        "tlivesource.com",
+        "weibo.com",
+        "wps.cn",
+        "wxlivecdn.com",
+        "xiaomi.com",
+        "xiaomi.net",
+        "yacd.haishan.me",
+        "yacd.metacubex.one",
+        "zijieapi.com"
+      ],
       "domain_suffix": [
         ".0.zone",
         ".00.net",
@@ -113190,6 +113237,11 @@
         "xn--vuq861b",
         "xn--xhq521b",
         "xn--zfr164b"
+      ],
+      "ip_cidr": [
+        "175.29.23.108/32",
+        "43.152.128.0/18",
+        "43.152.160.0/19"
       ]
     }
   ]
