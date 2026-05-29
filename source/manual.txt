@@ -9,3 +9,45 @@
 # mylan.local
 # *.local
 # 192.168.0.0/16
+
+
+wxlivecdn.com
+niucache.com
+gtimg.cn
+tlivesource.com
+tliveplay.com
+tlivedns.com
+sf-express.com
+hubeijingjunf.com
+qq.com.cn
+tencent.com
+qq.com
+baidu.com
+xiaomi.net
+weibo.com
+digicert.cn
+tencent-cloud.net
+bytegecko.com
+miui.com
+xiaomi.com
+jin10.com
+sogou.com
+sina.cn
+sina.com.cn
+wps.cn
+fqnovel.com
+bdurl.net
+douyinpic.com
+byteimg.com
+zijieapi.com
+snssdk.com
+qznovelvod.com
+fqnovelpic.com
+icloudnative.io
+fuckcloudnative.io
+993800.xyz
+sealos.io
+assrt.net
+opensubtitles.com
+jsdelivr.net
+cn
