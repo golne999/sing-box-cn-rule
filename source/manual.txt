@@ -17,9 +17,11 @@ yacd.metacubex.one
 dns.weixin.qq.com.cn
 yacd.haishan.me
 d.metacubex.one
+secure.globalsign.com
 i.snssdk.com
 is.snssdk.com
 aweme.snssdk.com
+.globalsign.com
 .wxlivecdn.com
 .niucache.com
 .gtimg.cn
