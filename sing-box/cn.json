@@ -9,8 +9,11 @@
         "bdurl.net",
         "bytegecko.com",
         "byteimg.com",
+        "clash.razord.top",
         "cn",
+        "d.metacubex.one",
         "digicert.cn",
+        "dns.weixin.qq.com.cn",
         "douyinpic.com",
         "fqnovel.com",
         "fqnovelpic.com",
@@ -42,6 +45,8 @@
         "wxlivecdn.com",
         "xiaomi.com",
         "xiaomi.net",
+        "yacd.haishan.me",
+        "yacd.metacubex.one",
         "zijieapi.com"
       ],
       "domain_suffix": [
@@ -113232,6 +113237,11 @@
         "xn--vuq861b",
         "xn--xhq521b",
         "xn--zfr164b"
+      ],
+      "ip_cidr": [
+        "175.29.23.108/32",
+        "43.152.128.0/18",
+        "43.152.160.0/19"
       ]
     }
   ]
