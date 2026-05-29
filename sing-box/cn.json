@@ -3,9 +3,12 @@
   "rules": [
     {
       "domain": [
+        "aweme.snssdk.com",
         "clash.razord.top",
         "d.metacubex.one",
         "dns.weixin.qq.com.cn",
+        "i.snssdk.com",
+        "is.snssdk.com",
         "yacd.haishan.me",
         "yacd.metacubex.one"
       ],
