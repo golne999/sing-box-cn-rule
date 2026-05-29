@@ -9,8 +9,14 @@
 # mylan.local
 # *.local
 # 192.168.0.0/16
-
-
+43.152.128.0/18
+43.152.160.0/19
+175.29.23.108/32
+clash.razord.top
+yacd.metacubex.one
+dns.weixin.qq.com.cn
+yacd.haishan.me
+d.metacubex.one
 wxlivecdn.com
 niucache.com
 gtimg.cn
